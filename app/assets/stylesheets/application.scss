@@ -1,0 +1,13 @@
+@import 'icons';
+
+.body {
+  background-color: red;
+}
+
+.menu-logo {
+  height: 200px;
+  width: 200px;
+  display: block;
+  background: transparent url(logo-svg-data('#c3d7e5')) no-repeat center;
+  text-indent: -9999em;
+}
